@@ -295,29 +295,46 @@ p {
 
 /*      PROJECT               */
 
-.about ul li span {
+.aboutProject ul li span {
     color: #031565;
     font-weight: 800;
 }
 
+.aboutProject ul li {
+    list-style: none;
+    font-weight: 800;
+    color: #081921;
+    padding-bottom: 40px;
+}
+
+.aboutProject ul li h5 {
+    padding-bottom: 20px;
+}
+
 /*         ACHIEVEMENT          */
 
-.about ul li h5 {
+.aboutAchievement ul li h5 {
     color: #081921;
     font-weight: 800;
     margin-top: 15px;
-
+    padding-bottom: 20px;
 }
 
-.about ul li h4 {
+.aboutAchievement ul li h4 {
     color: #2063ba;
     font-weight: 1000;
 
 }
 
-.about ul li h4 span {
+.aboutAchievement ul li h4 span {
     color: #031565;
     font-weight: 1000;
+
+}
+
+.aboutAchievement ul li {
+    list-style: none;
+    padding-bottom: 40px;
 }
 
 /*        INTEREST                */
